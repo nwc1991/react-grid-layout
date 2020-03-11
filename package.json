@@ -1,6 +1,6 @@
 {
   "name": "react-grid-layout",
-  "version": "0.18.3",
+  "version": "0.18.4",
   "description": "A draggable and resizable grid layout with responsive breakpoints, for React. with updates for iceberg",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,7 @@
     "view-example": "make view-example",
     "dev": "make dev",
     "prepublishOnly": "make build",
+    "postinstall": "make build",
     "validate": "npm ls",
     "flow": "flow"
   },

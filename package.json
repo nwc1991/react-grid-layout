@@ -1,6 +1,6 @@
 {
   "name": "react-grid-layout",
-  "version": "0.18.2",
+  "version": "0.18.3",
   "description": "A draggable and resizable grid layout with responsive breakpoints, for React. with updates for iceberg",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:STRML/react-grid-layout.git"
+    "url": "git@github.com:nwc1991/react-grid-layout.git"
   },
   "keywords": [
     "react",
@@ -28,7 +28,7 @@
     "fluid",
     "responsive"
   ],
-  "author": "Samuel Reed <samuel.trace.reed@gmail.com> (http://strml.net/)",
+  "author": "Samuel Reed <samuel.trace.reed@gmail.com> (http://strml.net/)/ updates by Nick.C",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/STRML/react-grid-layout/issues"

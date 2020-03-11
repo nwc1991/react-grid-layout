@@ -1,7 +1,7 @@
 {
   "name": "react-grid-layout",
   "version": "0.18.2",
-  "description": "A draggable and resizable grid layout with responsive breakpoints, for React.",
+  "description": "A draggable and resizable grid layout with responsive breakpoints, for React. with updates for iceberg",
   "main": "index.js",
   "scripts": {
     "lint": "make lint",
